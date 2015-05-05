@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Generic build folder used 
+# by waxyseal devs to install deps
+build/ 
